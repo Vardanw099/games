@@ -102,6 +102,11 @@ body {
   border-radius: 20px;
 }
 
+.zoom {
+  width: 220px;
+  height: 200px;
+}
+
 .dispnone {
   display: none;
 }
@@ -134,5 +139,14 @@ body {
 @media only screen and (max-width: 576px) {
   .paginate {
     min-width: 100px;
+  }
+
+  .product {
+    width: 170px;
+    height: 270px;
+  }
+  .zoom {
+    width: 170px;
+    height: 150px;
   }
 }

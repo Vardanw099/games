@@ -61,10 +61,10 @@ function Content({ categoryName }) {
             <div
               className="zoom"
               style={{
-                width: "220px",
-                height: "200px",
+                // width: "220px",
+                // height: "200px",
                 background: `url(${item.thumbnail})`,
-                backgroundPosition: "center",
+                // backgroundPosition: "center",
                 backgroundSize: "100% 100% ",
               }}
             ></div>
